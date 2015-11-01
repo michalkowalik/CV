@@ -1,4 +1,4 @@
-#Michal Kowalik#
+#Michał Kowalik#
 
 ```
 Nationality | Polish 
