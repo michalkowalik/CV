@@ -76,13 +76,13 @@ Monitoring servers status and alerts, troubleshooting, providing technical suppo
     * Supervision over all telecommunication and computing infrastructure in Lakron Group, preparing analysis on choosing a hardware or software solutions
     * Supervision and active cooperation with Web design team A strategic alliance for Lakron Group with Crowley Data Poland in providing internet services.
 
-  * ####IT teamlead in Future Net Lakron Polska Sp. z o.o. Sp.K.###
+  * ####IT teamlead in Future Net Lakron Polska Sp. z o.o. Sp.K.####
     * Cooperation with web design team in creating web applications (php, jsp, struts...) 
     * Systems and Network Administration: administration of UNIX servers, Netware 5.1 and Windows 2000 server (about 40 users in LAN, full NDS integration) 
     * ISDN PABX administration (Tenovis I5e and I3e)
     * Cooperation with our network and infrastructure providers.
   
-  * ###Network Administrator### 
+  * ####Network Administrator#### 
     * UNIX server administration, network services management (http, email, Samba server) 
     * Helpdesk and desktop administration
 
