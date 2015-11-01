@@ -1,11 +1,12 @@
 #Michal Kowalik#
 
-| Nationality | Polish |
-| Address | Herzogstandstr. 142 85435 Erding Deutschland |
-| Mobile | (+49) 178 282 5656 |
-| Email | michal@kleiberweb.de |
-| Homepage | http://www.kleiberweb.de/ |
-
+```
+Nationality | Polish 
+Address     | Herzogstandstr. 142 85435 Erding Deutschland 
+Mobile      | (+49) 178 282 5656 
+Email       | michal@kleiberweb.de 
+Homepage    | http://www.kleiberweb.de/ 
+```
 ##Education##
 
 * Warsaw University of Technology, *1997-2001*
