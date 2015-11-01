@@ -1,11 +1,21 @@
 #Michal Kowalik#
 
-Nationality: Polish Herzogstandstr. 141 85435 Erding Deutschland Mobile: (+49) 178 282 5656 Email: michal@kleiberweb.de Homepage: http://www.kleiberweb.de/
-Education
-Warsaw University of Technology, 1997-2001 Faculty: The Faculty of Electronics and Information Technology Faculty Division: Nuclear and Medical Electronics Division
-Trainings and Certiﬁcations
-ISTQB Certiﬁed Tester, Foundation Level
-MCITP Certiﬁed (70-640, 70-642, 70-646) Maintaining a Microsoft SQL Server 2008 Database (Course 6231)
+| Nationality | Polish |
+| Address | Herzogstandstr. 142 85435 Erding Deutschland |
+| Mobile | (+49) 178 282 5656 |
+| Email | michal@kleiberweb.de |
+| Homepage | http://www.kleiberweb.de/ |
+
+##Education##
+
+* Warsaw University of Technology, *1997-2001*
+  
+   The Faculty of Electronics and Information Technology, Division of Nuclear and Medical Electronics
+
+* Trainings and Certiﬁcations
+  * ISTQB Certiﬁed Tester, Foundation Level
+  * MCITP Certiﬁed (70-640, 70-642, 70-646) 
+  * Maintaining a Microsoft SQL Server 2008 Database (Course 6231)
 
 
 ##Employment##
