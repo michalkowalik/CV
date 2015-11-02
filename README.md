@@ -2,7 +2,8 @@
 
 ```
 Nationality | Polish 
-Address     | Herzogstandstr. 142 85435 Erding Deutschland 
+Address     | Herzogstandstr. 142
+            | 85435 Erding; Deutschland 
 Mobile      | (+49) 178 282 5656 
 Email       | michal@kleiberweb.de 
 Homepage    | http://www.kleiberweb.de/ 
@@ -22,12 +23,15 @@ Homepage    | http://www.kleiberweb.de/
 ##Employment##
 1. ###Wirecard Technologies GmbH###
 *May 2012 - now*
+  * ####Implementation Specialist####
+    * foo
+    * bar
 
- ####Test Engineer####
-   * Development and testing of the merchant migration tools - used to migrate merchant accounts to another credit card transaction processor. Technologies used: Ruby (including Rails for web GUI), oracle, SOAP 
-   * Mass Merchant Setup tool (Used to create merchant accounts on Wirecard’s systems on the foreign Financial Institutions onboarding process) - development, testing, implementation. Technologies used: Ruby, rspec, SOAP 
-   * Development of Chargeback application test and monitoring tools (Python, Ruby)
-   * C2P Chargeback GUI automation (Eggplant + Ruby rspec) Automation of testing credit card transactions (Visa / MasterCard tools, Ruby scripts, soapUI)
+  * ####Test Engineer####
+    * Development and testing of the merchant migration tools - used to migrate merchant accounts to another credit card transaction processor. Technologies used: Ruby (including Rails for web GUI), oracle, SOAP 
+    * Mass Merchant Setup tool (Used to create merchant accounts on Wirecard’s systems on the foreign Financial Institutions onboarding process) - development, testing, implementation. Technologies used: Ruby, rspec, SOAP 
+    * Development of Chargeback application test and monitoring tools (Python, Ruby)
+    * C2P Chargeback GUI automation (Eggplant + Ruby rspec) Automation of testing credit card transactions (Visa / MasterCard tools, Ruby scripts, soapUI)
 
 2. ###Ciao Commerce Shopping Division, Microsoft Deutschland GmbH###
 *Jun 2009 - April 2012*
@@ -59,15 +63,23 @@ Homepage    | http://www.kleiberweb.de/
 4. ###Freelancer###
 *Jun 2004 - Apr 2006*
 
- At that time I have cooperated with: HYPERmedia Sp. z o.o. (Hypermedia website) Starmedia LTD
-SkyBoost S.L. (Spain)
-Range of cooperation: Administration of Debian Linux, FreeBSD and Windows 2003 servers and network Managing network services
-Managing ActiveDirectory, print and ﬁle server on Windows 2003 Managing www test environment on Windows 2003 (IIS + PHP + MSSQL + MySQL)
-Backup management Mail server administration (including mass mailing)
-DNS administration (more than 300 domains – primary and secondary name servers on bind) Administrating www servers with multiple virtual hosts
-Creating an administration scripts and procedures Automation of common system administration tasks
-Automation of mass mailing scripts (perl) Developing web applications in php
-Monitoring servers status and alerts, troubleshooting, providing technical support for power users
+  Contracts with: 
+  * HYPERmedia Sp. z o.o. (Hypermedia website) 
+  * Starmedia LTD
+  * SkyBoost S.L. (Spain)
+  
+  Range of cooperation: 
+  * Administration of Debian Linux, FreeBSD and Windows 2003 servers and network Managing network services
+  * Managing ActiveDirectory, print and ﬁle server on Windows 2003 
+  * Managing www test environment on Windows 2003 (IIS + PHP + MSSQL + MySQL)
+  * Backup management 
+  * Mail server administration (including mass mailing)
+  * DNS administration (more than 300 domains – primary and secondary name servers on bind) 
+  * Administrating www servers with multiple virtual hosts
+  * Automating system administration tasks
+  * Automation of mass mailing scripts (perl) 
+  * Developing web applications in php
+  * Monitoring servers status and alerts, troubleshooting, providing technical support for power users
 
 4. ###Lakron Polska Sp. z o.o.###
 *Jul 2000 - Jan 2004*
@@ -76,7 +88,7 @@ Monitoring servers status and alerts, troubleshooting, providing technical suppo
     * Supervision over all telecommunication and computing infrastructure in Lakron Group, preparing analysis on choosing a hardware or software solutions
     * Supervision and active cooperation with Web design team A strategic alliance for Lakron Group with Crowley Data Poland in providing internet services.
 
-  * ####IT teamlead in Future Net Lakron Polska Sp. z o.o. Sp.K.####
+  * ####IT team lead in Future Net Lakron Polska Sp. z o.o. Sp.K.####
     * Cooperation with web design team in creating web applications (php, jsp, struts...) 
     * Systems and Network Administration: administration of UNIX servers, Netware 5.1 and Windows 2000 server (about 40 users in LAN, full NDS integration) 
     * ISDN PABX administration (Tenovis I5e and I3e)
@@ -91,7 +103,7 @@ Monitoring servers status and alerts, troubleshooting, providing technical suppo
 * Test planning and execution 
 * Test automation with Selenium, jbehave, test unit frameworks.
 * Jmeter, SoapUI and other testing tools
-* Test management with MS Test Manager, Atlassian Zephyr    
+* Test management with MS Test Manager, Atlassian Zephyr
 * Web application development and testing
 * e-commerce veteran 
 * .NET Programming (C#, F#)
@@ -120,4 +132,4 @@ Monitoring servers status and alerts, troubleshooting, providing technical suppo
 * Member of SAAB Club Poland 
 * Running
 * Functional programming 
-* Electric Guitar  
+* Guitar
