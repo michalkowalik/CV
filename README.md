@@ -21,11 +21,12 @@ Homepage    | http://www.kleiberweb.de/
 
 
 ##Employment##
-1. ###Wirecard Technologies GmbH###
+1. ###Wirecard Technologies GmbH ([www.wirecard.com](https://wirecard.com))###
 *May 2012 - now*
   * ####Implementation Specialist####
-    * foo
-    * bar
+    * Concept and implementation of Merchant migration project
+    * Implementation of [Compass+ Tranzaxis](http://www.tranzaxis.com/) platform.
+    * Overview of CBK automation
 
   * ####Test Engineer####
     * Development and testing of the merchant migration tools - used to migrate merchant accounts to another credit card transaction processor. Technologies used: Ruby (including Rails for web GUI), oracle, SOAP 
@@ -33,7 +34,7 @@ Homepage    | http://www.kleiberweb.de/
     * Development of Chargeback application test and monitoring tools (Python, Ruby)
     * C2P Chargeback GUI automation (Eggplant + Ruby rspec) Automation of testing credit card transactions (Visa / MasterCard tools, Ruby scripts, soapUI)
 
-2. ###Ciao Commerce Shopping Division, Microsoft Deutschland GmbH###
+2. ###Microsoft Deutschland GmbH, Ciao Commerce Shopping Division###
 *Jun 2009 - April 2012*
 
   * ####Software Development Engineer in Test####
@@ -49,7 +50,7 @@ Homepage    | http://www.kleiberweb.de/
     * Taking part in live migration of datacenter (from Munich to Dublin) 
     * Taking part in migration from Sybase ASE 15 to MSSQL Server 2008
 
-3. ###Ciao GmbH###
+3. ###Ciao GmbH ([www.ciao.de](http://www.ciao.de))###
 *Apr 2006 - Jun 2009*
 
  ####Senior System Administrator####
