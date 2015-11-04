@@ -95,7 +95,7 @@ Homepage    | http://www.kleiberweb.de/
     * ISDN PABX administration (Tenovis I5e and I3e)
     * Cooperation with our network and infrastructure providers.
   
-  * ####Network Administrator#### 
+  * ####Network Administrator
     * UNIX server administration, network services management (http, email, Samba server) 
     * Helpdesk and desktop administration
 
@@ -105,10 +105,10 @@ Homepage    | http://www.kleiberweb.de/
 * Test automation with Selenium, jbehave, test unit frameworks.
 * Jmeter, SoapUI and other testing tools
 * Test management with MS Test Manager, Atlassian Zephyr
-* Web application development and testing
+* Web application development and testing - Angular, Node.js, Rails and Flask
 * e-commerce veteran 
-* .NET Programming (C#, F#)
-* Fluent in Python and ruby, "good enough" in Java
+* .NET Programming - C#
+* Fluent in Python, ruby, and Java 
 * Advanced Unix administration (Solaris, Linux, *BSD)
 * Shell Scripting (bash, perl ect.)
 * System automation engines (cfengine, puppet, ansible) 
